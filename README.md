@@ -35,7 +35,7 @@ A Home Page of Netflix clone website built using HTML and CSS.
 
 ## Folder Structure
 
-- `css/`: Contains CSS files.
-- `index.html`: The main HTML file.
-- `picture.jpg`:Images used.
+- `netflix.css`: Contains CSS files.
+- `netflix.html`: The main HTML file.
+- `picture`:Images used.
 
